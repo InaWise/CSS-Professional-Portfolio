@@ -1,6 +1,6 @@
 # NEW2.-Advanced-CSS-Challenge-Professional-Portfolio
 2. Advanced CSS Challenge: Professional Portfolio
-[repo]([repo](https://github.com/InaWise/NEW2.-Advanced-CSS-Challenge-Professional-Portfolio)
+[repo](https://github.com/InaWise/NEW2.-Advanced-CSS-Challenge-Professional-Portfolio)
 
 [live site](https://inawise.github.io/NEW2.-Advanced-CSS-Challenge-Professional-Portfolio/)
 
